@@ -1,7 +1,7 @@
 class Simple{
 	public static void main(String arg[])
 	{
-	System.out.println("Welcome to Edureka Online training");
+	System.out.println("Welcome to Edureka Online traininssdg");
 	}
 }
 
